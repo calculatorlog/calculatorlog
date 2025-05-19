@@ -154,40 +154,8 @@ Star the repo to show some love! 🌟
 
 Quick Start
 
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
-
-# Install dependencies (if any)
-npm install
-
-# Run locally (e.g., for a web project)
-npm start
-
-
-
-📬 Connect with Me
-
-
-
-
-
-🌐 Check out my calculators at CalculatorLog.com
-
-
-
-💻 Follow my GitHub: Your GitHub Username
-
-
-
-📩 Got ideas? Open an issue or reach out via my website!
-
-
-
-🎉 Why This Repo?
-
-This is more than just code – it’s a celebration of building, testing, and vibing with tech. Whether you’re here to explore calculators, learn about VS Code tricks, or contribute to open-source, you’re part of the crew. Let’s code something amazing together! 💪
-
-
+CalculatorLog
+The compleate Calculator Directory https://calculatorlog.com/
 
 
 
